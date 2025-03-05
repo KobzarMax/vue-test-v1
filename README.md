@@ -1,5 +1,22 @@
-# Vue 3 + TypeScript + Vite
+# Vue 3 + TypeScript + Vite Project
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This project is a boilerplate setup for developing with **Vue 3**, **TypeScript**, and **Vite**. It includes common development tools like **Tailwind CSS** and **Chart.js**, and uses the Vue 3 `<script setup>` syntax.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## Project Setup
+
+### Prerequisites
+
+Before you begin, ensure that you have the following installed on your machine:
+
+- **Node.js** (v14.0 or higher)
+- **npm** (v6 or higher)
+
+### Installation
+
+Clone the repository and install the required dependencies:
+
+```bash
+git clone <repository-url>
+cd vue-test-v1
+npm install
+```
