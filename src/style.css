@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --color-mainBlack: #121212
+}
+
+html,
+body {
+  scroll-behavior: smooth;
+}
+
+.container {
+  @apply mx-auto xl:max-w-7xl md:max-w-2xl lg:max-w-4xl px-5 md:px-0;
+}
